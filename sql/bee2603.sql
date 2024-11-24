@@ -4,4 +4,4 @@ SELECT
 FROM
     customers
 WHERE
-    city LIKE 'Porto Alegre';
+    city = 'Porto Alegre';

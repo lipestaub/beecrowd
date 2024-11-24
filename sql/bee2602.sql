@@ -3,4 +3,4 @@ SELECT
 FROM
     customers
 WHERE
-    state LIKE 'RS';
+    state = 'RS';
