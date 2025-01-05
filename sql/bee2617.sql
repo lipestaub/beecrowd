@@ -6,4 +6,4 @@ FROM
 INNER JOIN
     providers prov ON prod.id_providers = prov.id
 WHERE
-    prod.id_categories = 6;
+    prov.name = 'Ajax SA';

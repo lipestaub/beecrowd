@@ -3,7 +3,7 @@ SELECT
     p.name
 FROM
     products p
-JOIN
+INNER JOIN
     categories c ON p.id_categories = c.id
 WHERE
     c.name LIKE 'super%';
