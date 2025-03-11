@@ -1,20 +1,17 @@
-# Beecrowd Submissions Repository
+# Beecrowd Solutions
 
-This repository contains my solutions to programming challenges from [Beecrowd](https://www.beecrowd.com.br/). The solutions are organized by **problem category** and **programming language** for easy navigation.
+This repository contains my solutions to coding challenges from the Beecrowd (formerly URI Online Judge) platform.
 
-To explore a solution:
-1. Navigate to the relevant category folder (e.g., `beginner`).
-2. Choose the programming language folder (e.g., `php`).
-3. Open the corresponding solution file (e.g., `bee1000.php`).
+## Description
 
-🌟 Goals
-- Practice and enhance problem-solving skills.
-- Organize solutions systematically for easy access.
-- Build a comprehensive archive of Beecrowd problem solutions.
+This repository serves as a personal collection of my solutions to various problems on Beecrowd.
 
-📌 Notes
-- The solutions reflect my personal approach to each problem.
-- Feedback and improvements are welcome to make the solutions better!
+## Contents
 
-📝 License
-- These solutions are for learning purposes only. Please avoid direct copying for Beecrowd submissions—practice is key to improvement!
+* Solutions to Beecrowd challenges, organized by problem number or category.
+* Code files in various languages (e.g., SQL, PHP).
+
+## Usage
+
+* Browse the files to view my solutions to specific Beecrowd problems.
+* Use these solutions as a reference for your own learning and practice.
